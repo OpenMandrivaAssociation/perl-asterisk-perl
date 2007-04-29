@@ -1,7 +1,7 @@
 Summary:	Asterisk modules for perl
 Name:		perl-asterisk-perl
-Version:	0.08
-Release:	%mkrel 3
+Version:	0.09
+Release:	%mkrel 1
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://asterisk.gnuinter.net/
