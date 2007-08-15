@@ -1,6 +1,6 @@
 Summary:	Asterisk modules for perl
 Name:		perl-asterisk-perl
-Version:	0.09
+Version:	0.10
 Release:	%mkrel 1
 License:	GPL or Artistic
 Group:		Development/Perl
