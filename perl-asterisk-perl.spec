@@ -8,7 +8,6 @@ URL:		http://asterisk.gnuinter.net/
 Source0:	http://asterisk.gnuinter.net/files/asterisk-perl-%{version}.tar.bz2
 BuildRequires:	perl-devel
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 perl-%{name} are modules for interfacing with the Asterisk open
