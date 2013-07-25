@@ -1,14 +1,14 @@
 %define upstream_name    asterisk-perl
-%define upstream_version 1.01
+%define upstream_version 1.03
 
 Name:		perl-%{upstream_name}
-Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Version:	%perl_convert_version 1.03
+Release:	1
 Summary:	Asterisk modules for perl
 License:	GPL or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{upstream_name}
-Source0:	http://search.cpan.org/CPAN/authors/id/J/JA/JAMESGOL/%{upstream_name}-%{upstream_version}.tar.gz
+Source0:	http://www.cpan.org/authors/id/J/JA/JAMESGOL/asterisk-perl-1.03.tar.gz
 
 BuildRequires:	perl-devel
 BuildArch:	noarch
@@ -78,4 +78,5 @@ perl Makefile.PL INSTALLDIRS=vendor < /dev/null
 
 * Sun Dec 26 2004 Oden Eriksson <oden.eriksson@linux-mandrake.com> 0.08-1mdk
 - initial mandrake package
+
 
