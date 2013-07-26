@@ -1,2 +1,4 @@
+removed_sources:
+  asterisk-perl-1.01.tar.gz: 5c014f54c8dcf8ee50209632cf74c26a2592f2de
 sources:
-  "asterisk-perl-1.01.tar.gz": 5c014f54c8dcf8ee50209632cf74c26a2592f2de
+  asterisk-perl-1.03.tar.gz: 6177c1a36a4aaec0ac179be4d641a76b4d2daad0
