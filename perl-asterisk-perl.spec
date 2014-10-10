@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version 1.03
-Release:	1
+Release:	2
 Summary:	Asterisk modules for perl
 License:	GPL or Artistic
 Group:		Development/Perl
