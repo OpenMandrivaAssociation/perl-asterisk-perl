@@ -7,7 +7,7 @@ Release:	3
 Summary:	Asterisk modules for perl
 License:	GPL or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/authors/id/J/JA/JAMESGOL/asterisk-perl-1.03.tar.gz
 
 BuildRequires:	perl-devel
